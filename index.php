@@ -1,4 +1,4 @@
-<p1>Name: Jingjing Zheng</p1>
+<h1>Name: Jingjing Zheng</h1>
 
 <div>
 <img src="img/selfie.jpg">
