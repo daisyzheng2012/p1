@@ -16,10 +16,6 @@
         background-color: #FAAC58;
         color: #ffffff;
     }
-    .bg-2 {
-        background-color: #474e5d;
-        color: #ffffff;
-    }
     </style>
 
 </head>
