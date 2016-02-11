@@ -25,10 +25,10 @@
       <div class="navbar-header">
         <a class="navbar-brand" href="/">Home</a>
       </div>
-        <ul class="nav navbar-nav">
+        <!-- <ul class="nav navbar-nav">
           <li class="active"><a href="#">About</a></li>
           <li><a href="#">Contact</a></li>
-        </ul>
+        </ul> -->
     </div>
   </nav>
 
@@ -58,12 +58,13 @@
   </div>
 
   <hr>
-  <footer>
-    <p>daisy@dynamic web application</p>
+  <footer class="footer">
+    <div class="container-fluid text-center">
+      <p class="text-muted">daisy@dynamic web application</p>
+    </div>
   </footer>
 
   <!-- jQuery -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
