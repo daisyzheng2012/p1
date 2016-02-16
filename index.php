@@ -40,9 +40,9 @@
   <div class="container-fluid text-center">
     <div class="row">
       <div class="col-sm-4">
-        <h2>Project2 Title</h2>
-        <p>View:[link]</p>
-        <p>Github:[link]</p>
+        <h2>xkcd Password Generator</h2>
+        <p><a href="http://p2.jingjingzheng.me">p2 View</a></p>
+        <p><a href="https://github.com/daisyzheng2012/p2">GitHub</a></p>
       </div>
       <div class="col-sm-4">
         <h2>Project3 Title</h2>
