@@ -33,7 +33,7 @@
   </nav>
 
   <div class="container-fluid bg-1 text-center">
-    <img src="img/selfie.jpg" class="img-circle" width="350" height="350">
+    <img src="img/selfie.jpg" alt="selfie" class="img-circle" width="350" height="350">
     <h3>Jingjing Zheng (Daisy :))</h3>
   </div>
 
