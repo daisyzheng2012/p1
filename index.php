@@ -45,9 +45,9 @@
         <p><a href="https://github.com/daisyzheng2012/p2">GitHub</a></p>
       </div>
       <div class="col-sm-4">
-        <h2>Project3 Title</h2>
-        <p>View:[link]</p>
-        <p>Github:[link]</p>
+        <h2>Laravel Basics</h2>
+        <p><a href="http://p3.jingjingzheng.me">p3 View</a></p>
+        <p><a href="https://github.com/daisyzheng2012/p3">GitHub</a></p>
       </div>
       <div class="col-sm-4">
         <h2>Project4 Title</h2>
