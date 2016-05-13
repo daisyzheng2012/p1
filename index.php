@@ -50,9 +50,9 @@
         <p><a href="https://github.com/daisyzheng2012/p3">GitHub</a></p>
       </div>
       <div class="col-sm-4">
-        <h2>Project4 Title</h2>
-        <p>View:[link]</p>
-        <p>Github:[link]</p>
+        <h2>Daisy Cafe House</h2>
+        <p><a href="http://p4.jingjingzheng.me">p4 View</a></p>
+        <p><a href="https://github.com/daisyzheng2012/p4">GitHub</a></p>
       </div>
     </div>
   </div>
